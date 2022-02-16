@@ -19,6 +19,7 @@ include:
   - _layouts
   - _site
   - _sass
+  - _plugins
 
 title: "Hello. I'm Jessica Seo."
 email: 'jessicaseo83@gmail.com'
