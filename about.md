@@ -52,7 +52,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 3. I like to try new things. Learning new languages, tasting new wines, trying new restaurants/foods, and buying new things(of course!)...etc.
 4. I love travelling(Before COVID-19 era...). My favourite city so far is **Budapest**. Everything was PERFECT! My second home is **San Francisco**. I like 49ers.
 5. I'm a **NIGHT OWL**. My brain works way better at night. Often stay up till 2am.
-6. I was a flower shop manager in downtown Toronto before making a career change. Let me know if you need any help your plants grow or flowers :-)
+6. I was a flower shop manager in downtown Toronto before joining the Web Development Bootcamp at Lighthouse Labs(pre-COVID 19). Please remember, there are many romantic flowers that area't red roses :-p.
 &nbsp;
 &nbsp;
 
