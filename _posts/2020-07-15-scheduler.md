@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: post
 position: right
 title: 'Scheduler'
 date: 2020-07-15 14:15:00
