@@ -18,6 +18,7 @@ include:
   - _includes
   - _layouts
   - _site
+  - _sass
 
 title: "Hello. I'm Jessica Seo."
 email: 'jessicaseo83@gmail.com'
