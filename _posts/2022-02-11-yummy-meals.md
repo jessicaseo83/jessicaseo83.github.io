@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Yummy Meals'
 date: 2022-02-11 21:15:00
 categories: development
