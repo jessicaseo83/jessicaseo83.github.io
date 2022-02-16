@@ -13,13 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-include: 
-  - _posts
-  - _includes
-  - _layouts
-  - _site
-  - _sass
-  - _plugins
 
 title: "Hello. I'm Jessica Seo."
 email: 'jessicaseo83@gmail.com'
@@ -34,7 +27,7 @@ medium_username: 'medium.com/@jessicaseo83'
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
