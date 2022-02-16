@@ -17,7 +17,8 @@ include:
   - _post
   - _includes
   - _layouts
-
+  - _site
+  
 title: "Hello. I'm Jessica Seo."
 email: 'jessicaseo83@gmail.com'
 description: "A full-stack developer, a knitter, an INTJ and a dog mama."
