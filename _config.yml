@@ -18,7 +18,7 @@ include:
   - _includes
   - _layouts
   - _site
-  
+
 title: "Hello. I'm Jessica Seo."
 email: 'jessicaseo83@gmail.com'
 description: "A full-stack developer, a knitter, an INTJ and a dog mama."
@@ -30,7 +30,7 @@ medium_username: 'medium.com/@jessicaseo83'
 
 # Build settings
 markdown: kramdown
-# theme: phantom # Uncomment once published to RubyGems
+theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate-v2
 
