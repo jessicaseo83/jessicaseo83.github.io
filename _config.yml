@@ -25,7 +25,7 @@ medium_username: 'medium.com/@jessicaseo83'
 
 # Build settings
 include: 
-  - _posts
+  - _sites/_posts
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
@@ -44,7 +44,7 @@ pagination:
 
   # The default document collection to paginate if nothing is specified ('posts' is default)
   collection: 'posts'
-  future: true
+  
 
   # How many objects per paginated page, used to be `paginate` (default: 0, means all)
   per_page: 10
