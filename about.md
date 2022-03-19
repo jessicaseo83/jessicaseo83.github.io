@@ -18,7 +18,6 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 🧶 A Knitter  
 🌱 A Crazy Plant Lady  
 🇨🇦 A Torontonian from Seoul 🇰🇷  
-🤖 MBTI - INTJ [What is INTJ?](https://www.16personalities.com/intj-personality)  
 &nbsp;
 &nbsp;
 
@@ -33,7 +32,6 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 - Ruby on Rails
 - Python
 - PostgreSQL
-- GraphQL
 - Ajax, JQuery
 - Testing (Mocha & Chai, Storybook, Jest, Cypress)
 - HTML
@@ -56,6 +54,5 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 ### Currently Playing with...
 
-- C++ - I have been exposed to C++ (x years ago). I'm trying to put together my old memories...
+- GraphQL
 - Typescript - My next goal.
-- AWS - interested in AWS Developer topics!
